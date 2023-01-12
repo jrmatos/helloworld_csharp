@@ -16,6 +16,5 @@ namespace HelloWorld
             Console.WriteLine("Name is " + this.name);
             Console.WriteLine("Age is " + this.age);
         }
-        
     }
 }
